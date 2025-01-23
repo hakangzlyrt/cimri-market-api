@@ -1,0 +1,18 @@
+HTTP/2 200 
+date: Thu, 23 Jan 2025 15:05:41 GMT
+content-type: text/html; charset=utf-8
+vary: Accept-Encoding
+cache-control: public, max-age=120
+last-modified: Thu, 23 Jan 2025 15:05:41 GMT
+x-vct: 600.000
+age: 0
+return: 0
+grace: 1800.000
+healthy: true
+x-cache: MISS_01
+cf-cache-status: DYNAMIC
+server: cloudflare
+cf-ray: 9068aef00ec2d5fc-IST
+content-encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
