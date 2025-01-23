@@ -1,0 +1,19 @@
+# Debug dosyaları
+debug.html
+debug_headers.txt
+debug_jsonld.json
+debug_next_data.json
+
+# Cookie dosyası
+cookies.txt
+
+# IDE ve sistem dosyaları
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# PHP dosyaları
+vendor/
+composer.lock 
